@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f3f6fb;
+  color: #101427;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.hero {
+  text-align: center;
+  padding-top: 3rem;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  gap: 0.8rem;
+}
+
+.links a {
+  text-decoration: none;
+  background: #2d61f0;
+  color: #fff;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.45rem;
+}
+
+section {
+  background: #fff;
+  border: 1px solid #d8dfef;
+  border-radius: 0.75rem;
+  padding: 1rem;
+}

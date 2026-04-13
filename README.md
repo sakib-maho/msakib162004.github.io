@@ -1,13 +1,21 @@
 # msakib162004.github.io
 
-## Description
-msakib162004.github.io - A project by sakib-maho
+Personal GitHub Pages landing site for showcasing profile links and core development focus areas.
+
+## Highlights
+
+- Clean static landing page with responsive layout
+- Quick links to GitHub profile and portfolio
+- Section outlining backend and automation focus
+
+## Run Locally
+
+```bash
+python3 -m http.server 8000
+```
+
+Then open `http://localhost:8000`.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
-sakib-maho
-
-## Copyright
-Copyright (c) 2025 sakib-maho
+MIT License. See `LICENSE`.
