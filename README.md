@@ -9,13 +9,13 @@ _Part of the `sakib-maho` project showcase series with consistent documentation 
 
 Personal GitHub Pages landing site for showcasing profile links and core development focus areas.
 
-## Highlights
+## Features
 
 - Clean static landing page with responsive layout
 - Quick links to GitHub profile and portfolio
 - Section outlining backend and automation focus
 
-## Run Locally
+## Quick Start
 
 ```bash
 python3 -m http.server 8000
